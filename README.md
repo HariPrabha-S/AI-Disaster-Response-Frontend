@@ -1,1 +1,0 @@
-# AI-Disaster-Response-Frontend
